@@ -21,6 +21,6 @@ you can choose to visualize one variable in a 3D fashion or four variables in a 
 2. **Interrupting Execution**: You can interrupt the download process by pressing `Ctrl+C` in the terminal. The script will handle the interruption gracefully.
 
 ## Important Notes
-- Any changes to the structure or elements of the website may require corresponding updates to the XPath or CSS selectors used in the script.
+- There is a test.nc file you can use to test the script.
 - The script includes basic error handling to deal with exceptions that may occur during process.
 - Feel free to modify and adapt this script according to your specific requirements. If you encounter any issues or have further questions, please don't hesitate to reach out for assistance.
